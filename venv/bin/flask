@@ -1,6 +1,5 @@
-#!/bin/sh
-'''exec' "/home/python/Рабочий стол/LightIT/flask_in_office/venv/bin/python3" "$0" "$@"
-' '''
+#!/home/alexandr/Desktop/light_IT/Flask/venv/bin/python3
+
 # -*- coding: utf-8 -*-
 import re
 import sys
